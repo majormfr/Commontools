@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bmi-result {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+}
